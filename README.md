@@ -6,3 +6,7 @@ learn git for code manage
 local upadta
 
 how to create new flie to web?
+
+
+
+2019/4/15 can't find my readme.md branch,and discard changes.
